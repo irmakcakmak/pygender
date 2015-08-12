@@ -1,0 +1,8 @@
+A Python wrapper for gender.c
+Package using command:
+python setup.py sdist
+Install using either:
+pip install pygender
+or If you have the tar.gz file:
+python setup.py install
+Need sudo as data file is put under /var/lib/gender

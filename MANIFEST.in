@@ -1,0 +1,3 @@
+include nam_dict.txt
+include *.h
+include *.c
